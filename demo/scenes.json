@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01-hook",
+    "chapter": "01 / THE SPATIAL MOMENT",
+    "title": "Why look away from a 380 °C soldering iron?",
+    "subtitle": "Schematic whiplash breaks your grip, your probe contact, and your focus.",
+    "text": "Imagine debugging a live power board with a three hundred eighty degree soldering iron in one hand and a continuity probe in the other. Glancing sideways at a laptop or unlocking a phone breaks your grip and slips your probe across live pins. VoltBench A R puts your diagnostics directly on the physical board in front of you."
+  },
+  {
+    "id": "02-why-glasses",
+    "chapter": "02 / WHY IT BELONGS ON GLASSES",
+    "title": "Shares your view. Draws in the world. Hands stay free.",
+    "subtitle": "Built specifically for Snap Spectacles optical see-through waveguides.",
+    "text": "VoltBench combines all three strengths of Spectacles. It shares your exact view of the workbench, draws three dimensional target reticles and pinout specs in real world centimeters right over the hardware, and leaves both of your hands completely free to hold your tools."
+  },
+  {
+    "id": "03-fov-architecture",
+    "chapter": "03 / SPECS 37° × 32° FOV & PREVIEW STAND-INS",
+    "title": "Engineered for the 53 × 77 cm focal window at z = -110 cm.",
+    "subtitle": "Additive waveguide contrast with explicit Preview sensor stand-ins.",
+    "text": "Every element respects the thirty seven by thirty two degree Spectacles field of view at negative one hundred ten centimeters. The central corridor stays wide open over the PCB, flanked by dark UIKit backplates on the left and right, with explicit Preview stand-in buttons for Bluetooth probe continuity and infrared thermal sensing."
+  },
+  {
+    "id": "04-probe-continuity",
+    "chapter": "04 / 3D BEACON & PROBE CONTINUITY",
+    "title": "Pinch a 3D station or simulate probe contact.",
+    "subtitle": "Locks 5.02 V rail & 48.0 MHz clock, then auto-advances the 3D beacon.",
+    "text": "When you pinch Simulate Probe Contact or touch the three dimensional logic probe to Station A, VoltBench locks in five point zero two volts, plays a low latency confirmation chime, marks Station A verified, and automatically glides the rotating three dimensional beacon over to Station B."
+  },
+  {
+    "id": "05-thermal-alert",
+    "chapter": "05 / OUT-OF-FOV SPATIAL ATTENTION CUE",
+    "title": "Off-axis 94.6 °C thermal spike on Station C.",
+    "subtitle": "Spatial audio chime + in-FOV directional arrow guide your gaze.",
+    "text": "Because optical glasses have a focused field of view, off screen hazards need spatial cues. Triggering a ninety four point six degree thermal spike on Station C fires an urgent spatial chime and an in frame directional arrow guiding your gaze right. Inspecting and probing Station C stabilizes the MOSFET stage back to forty one point eight degrees."
+  },
+  {
+    "id": "06-focus-mode",
+    "chapter": "06 / PROGRESSIVE DISCLOSURE",
+    "title": "Show only when needed. Recede when done.",
+    "subtitle": "Focus Mode collapses secondary telemetry while your hands solder.",
+    "text": "Good A R gets out of your way when you are working. Toggling Focus Mode collapses detailed pinout specs into a single eyes up banner while you solder, and completed circuit stations recede into subtle verified badges."
+  },
+  {
+    "id": "07-clad-leaf",
+    "chapter": "07 / CLAD ARCHITECTURE & LEAF VERIFICATION",
+    "title": "Zero CLAD static violations. 5 / 5 LEAF scenarios passing.",
+    "subtitle": "Custom Blender 4.4 voxel GLBs, 44.1 kHz WAV synthesis, and IK reachability.",
+    "text": "Under the hood, VoltBench is built with Snap's C L A D architecture: six canonical Blender voxel G L B meshes with unit scale collider wrappers, five synthesized forty four point one kilohertz W A V audio tracks, and an automated LEAF test suite that verifies all five Done Criteria and inverse kinematics hand reachability."
+  },
+  {
+    "id": "08-close",
+    "chapter": "08 / VOLTBENCH AR FOR SPECTACLES",
+    "title": "Eyes on the board. Hands on the tools.",
+    "subtitle": "Planned with plan-lens · Built with CLAD · Proven with LEAF.",
+    "text": "VoltBench A R for Snap Spectacles. Eyes on the board, hands on the tools, and every spatial interaction proven in preview."
+  }
+]

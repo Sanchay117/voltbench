@@ -1,0 +1,31 @@
+1
+00:00:00,100 --> 00:00:19,884
+Imagine debugging a live power board with a three hundred eighty degree soldering iron in one hand and a continuity probe in the other. Glancing sideways at a laptop or unlocking a phone breaks your grip and slips your probe across live pins. VoltBench A R puts your diagnostics directly on the physical board in front of you.
+
+2
+00:00:20,134 --> 00:00:36,918
+VoltBench combines all three strengths of Spectacles. It shares your exact view of the workbench, draws three dimensional target reticles and pinout specs in real world centimeters right over the hardware, and leaves both of your hands completely free to hold your tools.
+
+3
+00:00:37,168 --> 00:00:57,672
+Every element respects the thirty seven by thirty two degree Spectacles field of view at negative one hundred ten centimeters. The central corridor stays wide open over the PCB, flanked by dark UIKit backplates on the left and right, with explicit Preview stand-in buttons for Bluetooth probe continuity and infrared thermal sensing.
+
+4
+00:00:57,922 --> 00:01:16,458
+When you pinch Simulate Probe Contact or touch the three dimensional logic probe to Station A, VoltBench locks in five point zero two volts, plays a low latency confirmation chime, marks Station A verified, and automatically glides the rotating three dimensional beacon over to Station B.
+
+5
+00:01:16,708 --> 00:01:38,292
+Because optical glasses have a focused field of view, off screen hazards need spatial cues. Triggering a ninety four point six degree thermal spike on Station C fires an urgent spatial chime and an in frame directional arrow guiding your gaze right. Inspecting and probing Station C stabilizes the MOSFET stage back to forty one point eight degrees.
+
+6
+00:01:38,542 --> 00:01:52,566
+Good A R gets out of your way when you are working. Toggling Focus Mode collapses detailed pinout specs into a single eyes up banner while you solder, and completed circuit stations recede into subtle verified badges.
+
+7
+00:01:52,816 --> 00:02:13,800
+Under the hood, VoltBench is built with Snap's C L A D architecture: six canonical Blender voxel G L B meshes with unit scale collider wrappers, five synthesized forty four point one kilohertz W A V audio tracks, and an automated LEAF test suite that verifies all five Done Criteria and inverse kinematics hand reachability.
+
+8
+00:02:14,050 --> 00:02:21,954
+VoltBench A R for Snap Spectacles. Eyes on the board, hands on the tools, and every spatial interaction proven in preview.
