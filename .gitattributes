@@ -1,0 +1,6 @@
+# Keep all generated meshes, SFX, and icon PNGs inline in git so clones work without Git LFS
+Assets/Icons/*.png !filter !diff !merge
+Assets/GeneratedMeshes/*.glb !filter !diff !merge
+Assets/GeneratedMeshes/preview/*.png !filter !diff !merge
+Assets/GeneratedSFX/*.wav !filter !diff !merge
+*.mp4 !filter !diff !merge

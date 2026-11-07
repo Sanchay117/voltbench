@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/758ee702-5a82-4d2b-a147-9f7bfb6a8cdf>
+  ImportedAssetIds:
+    Primary: !<reference> 78aea300-effb-4100-ad85-c930bfe1875c
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 78aea300-effb-4100-ad85-c930bfe1875c
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000

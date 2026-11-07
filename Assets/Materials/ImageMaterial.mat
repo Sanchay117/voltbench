@@ -1,0 +1,11 @@
+- !<GraphMaterial/aafdebac-bcc9-4ca4-a36b-5fdb30564893>
+  Name: ImageMaterial
+  PackagePath: ""
+  PassInfos:
+    - !<PassInfo>
+      Name: Pass 0
+      BlendMode: PremultipliedAlphaAuto
+      DepthTest: true
+      DepthWrite: false
+      TwoSided: true
+      BaseColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}

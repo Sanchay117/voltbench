@@ -1,0 +1,16 @@
+- !<AssetImportMetadata/992e4634-9495-46a4-a5e3-c762cfbabfa9>
+  ImportedAssetIds:
+    Primary: !<reference> 2929302f-0e18-426b-a99b-d2daad410e17
+  ImporterName: TypeScriptImporter
+  PrimaryAsset: !<reference> 2929302f-0e18-426b-a99b-d2daad410e17
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
